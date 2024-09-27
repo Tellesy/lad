@@ -8,4 +8,5 @@ class LadApplication
 
 fun main(args: Array<String>) {
     runApplication<LadApplication>(*args)
+    //Test
 }
